@@ -1,10 +1,4 @@
-### Hi there 👋
+### Welcome to my Discord Profile
 
-- 🔭 I’m currently working on: Mainly University Stuff!
-- 🌱 I’m currently learning: docker...? 
-- 👯 I’m looking to collaborate on: Hackathon Projects! 
-- 🤔 I’m looking for help with: Go :PepeHands:
-- 💬 Ask me about: Java Discord Bot Development (Especially using [JDA Command](http://github.com/rainestormee/jda-command))
-- 📫 How to reach me: Discord: Raine#8544
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have not seen this feature before on GH.
+Feel free to check out anything -- a lot of this is just temporary or testing stuff and mainly kept for my own purposes.
+I still need to go through and prune what is available publicly, a lot of my interesting stuff is private.
